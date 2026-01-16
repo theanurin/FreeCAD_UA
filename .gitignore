@@ -1,0 +1,9 @@
+# FreeCAD files
+*.FCBak
+*.lck
+
+# Local Files/Directories
+*.local*
+
+# MacOS files
+.DS_Store
